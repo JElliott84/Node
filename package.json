@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Tutorial Demo ",
+  "homepage": "https://github.com/JElliott84/Node#readme",
+  "bugs": {
+    "url": "https://github.com/JElliott84/Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JElliott84/Node.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
